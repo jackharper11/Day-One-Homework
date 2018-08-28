@@ -1,0 +1,108 @@
+body {
+    -webkit-font-smoothing: antialiased;
+}
+.add_webhook {
+font-weight: 600;
+font-size: 12px;
+  background: #f4f7fa;
+  width: 100px;
+border-radius: 3px;
+padding: 7px;
+border:1px #cfd1d4 solid;
+margin-left: 11px
+}
+.Get_started {
+color:#7952b3;
+border: 1px solid #7952b3;
+border-radius: 5px;
+font-size: 20px;
+font-weight: 600;
+margin-left: 11px;
+padding: 16px 30px;
+letter-spacing: -.75px;
+}
+
+.sign_up {
+  background: #ed4734;
+  color: #fef8f7;
+  padding: 8.5px 19.5px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 5px;
+  font-weight: 800;
+  font-size: 14px;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.full_catalog {
+  background: #53b882;
+  color: white;
+  margin-left: 15px;
+padding: 15px 35px;
+  border-radius: 45px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.start {
+background: #5c6ac4;
+color: white;
+margin-left: 8px;
+font-size: 16px;
+border-radius: 5px;
+padding: 15px 30px;
+font-weight: 600;
+letter-spacing: -.75
+}
+
+.log_in {
+  color: #676767;
+  margin-left: 8px;
+  padding: 5px 17.5px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 800;
+  font-family: 'Open Sans', sans-serif;
+  border:#c4c4c4 1px solid;
+}
+
+.new_page {
+  color: white;
+  background: #52b34c;
+  border-radius: 3px;
+  padding: 7px 10px;
+  font-weight: 800;
+margin-left: 4px;
+font-size: 12px;
+}
+
+.visit_us {
+  background: #349bf5;
+  color: white;
+  font-size: 16px;
+  border-radius: 35px;
+  margin-left: 10px;
+  font-weight: 500;
+  padding: 10px 42.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
